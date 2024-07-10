@@ -33,7 +33,7 @@ The main component that sets up the context provider and renders the Form and Ta
 Form.js
 A component for adding new persons. It contains an input form and handles form submission.
 
-Table.js
+Retreive.js
 A component for displaying the list of persons. It retrieves data from the context and renders it in a table.
 
 DirectoryContext.jsx
@@ -42,7 +42,7 @@ A context provider that manages the global state for the directory.
 Form.css
 Contains the styles for the Form component.
 
-Table.css
+Reterive.css
 Contains the styles for the Table component.
 
 DirectoryContext
